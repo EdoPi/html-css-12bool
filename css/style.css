@@ -1,6 +1,20 @@
+.container{
+
+}
 [class*="col-"] {
   background-color: pink;
   height: 300px;
   text-align: center;
   line-height: 300px;
+  border:1px solid black;
+}
+
+
+ [class*="col-"] .container {
+padding:15px;
+}
+
+[class*="col-"] .container [class*="col-"]{
+  height: 270px;
+  background-color: lightcoral;
 }
