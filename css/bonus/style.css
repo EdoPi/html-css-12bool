@@ -1,0 +1,33 @@
+
+[class*="col-"] {
+  height: 50px;
+}
+
+.red{
+  background-color: red
+}
+
+.skin{
+  background-color: #FEBE84;
+}
+
+.brown{
+  background-color: #553018;
+}
+
+.black{
+  background-color: black;
+}
+
+.yellow{
+  background-color: #FFFF45;
+}
+
+.celeste{
+  background-color: #A7CED3;
+}
+
+.blue{
+  background-color: #034896;
+
+}
